@@ -1,0 +1,6 @@
+{
+  "name": "PulseAnalytics - Healthcare Data & Performance Analytics",
+  "description": "Comprehensive healthcare analytics platform featuring patient demographics, hospital department performance, admission patterns, treatment cost analysis, and interactive Power BI report integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
